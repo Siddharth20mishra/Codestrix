@@ -1,5 +1,6 @@
 import express from "express"
 import { authMiddleware } from "../middleware/auth.middleware.js";
+import { addProblemToPlaylist, createPlaylist, deletePlaylist, getAllListDetails, getPlayListDetails, removeProblemFromPlaylist } from "../controllers/playlist.controller.js";
 
 
 
