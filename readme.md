@@ -50,7 +50,7 @@ Codestrix is a full-stack coding platform designed to offer an immersive, in-bro
 
 ### Backend
 - Node.js + Express.js
-- MongoDB
+- Postgress SQL
 - JWT + bcrypt
 - Judge0 CE (via Docker)
 
@@ -61,7 +61,7 @@ Codestrix is a full-stack coding platform designed to offer an immersive, in-bro
 ### 📦 Prerequisites
 - Node.js + npm
 - Docker (for Judge0 CE)
-- MongoDB (local or remote)
+- Postgress SQL
 
 ---
 
